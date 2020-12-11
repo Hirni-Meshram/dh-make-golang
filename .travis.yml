@@ -1,4 +1,6 @@
 dist: bionic
+group: edge
+virt: lxd
 
 language: go
 
